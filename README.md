@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @varunbkk
+- 👋 Hi, I’m Varun
 - 👀 I’m interested in ...building cool stuff with Python
 - 🌱 I’m currently learning ... Django, it's awesome!
 - 📫 How to reach me ...varun.prak@gmail.com
