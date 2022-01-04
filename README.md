@@ -17,10 +17,11 @@
 
 <br />
 
+<br />
 
+### :hammer: My Projects:
 
-### :hammer: My Projects :hammer:
-
+<br />
 ### Connect with me:
 
 [<img align="left" alt="My Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
