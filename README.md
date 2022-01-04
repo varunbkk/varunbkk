@@ -14,8 +14,7 @@
 
 ### Languages and Tools:
 
+<img align="left" alt="Atom Editor" width="26px" src="https://seeklogo.com/images/A/atom-logo-19BD90FF87-seeklogo.com.png" />
 
 [website]: https://varunbkk-my-portfolio.herokuapp.com/
 [linkedin]: https://www.linkedin.com/in/varun-prakash-70a3694/
-
-<img align="left" alt="Atom Editor" width="26px" src="https://seeklogo.com/images/A/atom-logo-19BD90FF87-seeklogo.com.png" />
