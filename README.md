@@ -17,7 +17,7 @@
 
 <br />
 
-### :hammer: My Projects:
+### My Projects: :hammer: 
 
 [BookMySlot][bookmyslot] - A Django-based delivery booking system with CRUD functionality
 <br />
