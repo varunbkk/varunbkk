@@ -24,3 +24,6 @@
 <br />
 
 ---
+
+[website]: https://varunbkk-my-portfolio.herokuapp.com/
+[linkedin]: https://www.linkedin.com/in/varun-prakash-70a3694/
