@@ -1,8 +1,8 @@
-## Hi there, I'm Varun 👋 
+## Hello there, I'm Varun 👋 
 
 ### I like building web applications
 
-- 🌱 I’m currently learning..REST API's :smiley:
+- 🌱 I’m currently learning...REST API's :smiley:
 - 🥅 2022 Goals: Build more projects
 
 
