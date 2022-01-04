@@ -16,10 +16,13 @@
 <img align="left" alt="Python" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png" />
 <img align="left" alt="JavaScript" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
 
-[website]: https://varunbkk-my-portfolio.herokuapp.com/
-[linkedin]: https://www.linkedin.com/in/varun-prakash-70a3694/
 
+
+<br />
 ### Connect with me:
 
 [<img align="left" alt="My Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[website]: https://varunbkk-my-portfolio.herokuapp.com/
+[linkedin]: https://www.linkedin.com/in/varun-prakash-70a3694/
