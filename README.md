@@ -19,7 +19,7 @@
 
 ### :hammer: My Projects:
 
-[BookMySlot][bookmyslot] - A Django-based booking system offering CRUD functionality that enables users to book delivery slots on desired date(s) & time(s)
+[BookMySlot][bookmyslot] - A Django-based booking system with CRUD functionality that enables users to book delivery slots
 
 
 ### Connect with me:
