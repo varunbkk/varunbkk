@@ -5,7 +5,6 @@
 - 🌱 I’m currently learning REST API's :smiley:
 - 🥅 2022 Goals: Build more projects
 
-
 <br />
 
 ### Languages and Tools:
