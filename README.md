@@ -1,7 +1,4 @@
-### Hi there, I'm Varun - [website] 👋 
-
-[![Website](https://varunbkk-my-portfolio.herokuapp.com/)
-
+### Hi there, I'm Varun 👋 
 
 ## I like building web applications
 
