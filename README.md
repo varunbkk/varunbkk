@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning...REST API's :smiley:
 - 🥅 2022 Goals: Build more projects
-- ⚡ Finding more interesting 
+- ⚡ Finding and sampling IPA's 🍻
 
 
 ### Languages and Tools:
