@@ -3,7 +3,7 @@
 ### I like building web applications
 
 - 🌱 I’m currently learning...REST API's :smiley:
-- 🥅 2022 Goals: Build more projects
+- 🥅 2022 Goals - Build more projects
 - ⚡ In my spare time, I like discovering and sampling new IPA's 🍻
 
 
