@@ -2,7 +2,7 @@
 
 ### I like building web applications
 
-- 🌱 I’m currently learning REST API's :smiley:
+- 🌱 I’m currently learning..REST API's :smiley:
 - 🥅 2022 Goals: Build more projects
 
 
