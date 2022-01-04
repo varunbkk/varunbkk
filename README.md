@@ -17,10 +17,10 @@
 
 <br />
 
-### My Projects:
+### :hammer: My Projects:
 
+BookMySlot - A CRUB web application
 
-<br />
 ### Connect with me:
 
 [<img align="left" alt="My Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -28,3 +28,5 @@
 
 [website]: https://varunbkk-my-portfolio.herokuapp.com/
 [linkedin]: https://www.linkedin.com/in/varun-prakash-70a3694/
+
+[bookmyslot]: http://varunbkk-bookmyslot.herokuapp.com/
