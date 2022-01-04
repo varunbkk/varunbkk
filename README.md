@@ -2,7 +2,7 @@
 
 ### I like building web applications
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything :smiley:
 - 🥅 2022 Goals: Build more projects
 
 ### Connect with me:
