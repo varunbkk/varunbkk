@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2022 Goals: Build more projects
-- ![image](https://user-images.githubusercontent.com/19251239/148017136-ebd1372d-3bc1-4481-b9ae-ea716a3df179.png)
+- [<img align="left" src="https://user-images.githubusercontent.com/19251239/148017136-ebd1372d-3bc1-4481-b9ae-ea716a3df179.png" width="26px" alt="">]
 
 
 ### Connect with me:
