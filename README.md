@@ -19,7 +19,9 @@
 
 ### :hammer: My Projects:
 
-[BookMySlot][bookmyslot] - A Django-based booking system with CRUD functionality that enables users to book delivery slots
+[BookMySlot][bookmyslot] - A Django-based delivery booking system with CRUD functionality
+[MyShop][myshop]- An e-commerce store, built w/ Django and JS
+[MyPhotos][myphotos] - A personal photo gallery, also built w/ Django and JS
 
 
 ### Connect with me:
@@ -31,4 +33,5 @@
 [linkedin]: https://www.linkedin.com/in/varun-prakash-70a3694/
 
 [bookmyslot]: http://varunbkk-bookmyslot.herokuapp.com/
-[myshop]:
+[myshop]: http://varunbkk-myshop.herokuapp.com/
+[myphotos]: http://varunbkk-myphotos.herokuapp.com/
