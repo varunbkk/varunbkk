@@ -18,9 +18,7 @@
 
 <br />
 
-<br />
-
-### :hammer: My Projects:
+### My Projects:
 
 
 ### Connect with me:
