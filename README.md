@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning...REST API's :smiley:
 - 🥅 2022 Goals: Build more projects
-- ⚡ 
+- ⚡ Finding more interesting 
 
 
 ### Languages and Tools:
@@ -19,7 +19,8 @@
 
 ### :hammer: My Projects:
 
-[BookMySlot][bookmyslot] - A CRUB web application
+[BookMySlot][bookmyslot] - A Django-based booking system offering CRUD functionality that enables users to book delivery slots on desired date(s) & time(s)
+
 
 ### Connect with me:
 
@@ -30,3 +31,4 @@
 [linkedin]: https://www.linkedin.com/in/varun-prakash-70a3694/
 
 [bookmyslot]: http://varunbkk-bookmyslot.herokuapp.com/
+[myshop]:
