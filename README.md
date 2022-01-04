@@ -6,7 +6,6 @@
 - 🥅 2022 Goals: Build more projects
 - ⚡ 
 
-<br />
 
 ### Languages and Tools:
 
