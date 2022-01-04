@@ -1,9 +1,30 @@
-- 👋 Hi, I’m Varun
-- 👀 I’m interested in ...building cool stuff with Python
-- 🌱 I’m currently learning ... Django, it's awesome!
-- 📫 How to reach me ...varun.prak@gmail.com
+### Hi there, I'm Varun - [website] 👋 
 
-<!---
-varunbkk/varunbkk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Website](https://varunbkk-my-portfolio.herokuapp.com/)
+[![linkedin](https://www.linkedin.com/in/varun-prakash-70a3694/)
+
+
+## I like building web applications
+
+- 🌱 I’m currently learning everything 🤣
+- 🥅 2022 Goals: Build more projects
+
+### Connect with me:
+
+[<img align="left" alt="My Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+<br />
+
+### Languages and Tools:
+
+[<img align="left" alt="Atom Editor" width="26px" src="https://seeklogo.com/images/A/atom-logo-19BD90FF87-seeklogo.com.png" />]
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
+
+
+<br />
+<br />
+
+---
