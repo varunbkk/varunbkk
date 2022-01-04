@@ -19,7 +19,7 @@
 
 ### :hammer: My Projects:
 
-BookMySlot - A CRUB web application
+[BookMySlot][bookmyslot] - A CRUB web application
 
 ### Connect with me:
 
