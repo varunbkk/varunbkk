@@ -1,6 +1,6 @@
-### Hi there, I'm Varun 👋 
+## Hi there, I'm Varun 👋 
 
-## I like building web applications
+### I like building web applications
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2022 Goals: Build more projects
