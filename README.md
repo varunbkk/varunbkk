@@ -19,9 +19,9 @@
 
 ### My Projects :hammer: 
 
-[MyPhotos][myphotos] - A personal photo gallery, also built w/ Django and JS
+[MyPhotos][myphotos] - A personal photo gallery, built w/ Django and JS - [Demo][myphotosrepo]
 <br />
-[MyShop][myshop]- An e-commerce store, built w/ Django and JS
+[MyShop][myshop]- An e-commerce store, also built w/ Django and JS
 <br />
 [BookMySlot][bookmyslot] - A Django-based delivery booking system offering CRUD functionality
 
@@ -42,3 +42,4 @@
 [bookmyslot]: http://varunbkk-bookmyslot.herokuapp.com/
 [myshop]: http://varunbkk-myshop.herokuapp.com/
 [myphotos]: http://varunbkk-myphotos.herokuapp.com/
+[myphotosrepo]: https://github.com/varunbkk/myportfolio_myphotos/
