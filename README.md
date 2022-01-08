@@ -19,11 +19,15 @@
 
 ### My Projects :hammer: 
 
-[BookMySlot][bookmyslot] - A Django-based delivery booking system offering CRUD functionality
+[MyPhotos][myphotos] - A personal photo gallery, also built w/ Django and JS
 <br />
 [MyShop][myshop]- An e-commerce store, built w/ Django and JS
 <br />
-[MyPhotos][myphotos] - A personal photo gallery, also built w/ Django and JS
+[BookMySlot][bookmyslot] - A Django-based delivery booking system offering CRUD functionality
+
+
+
+
 
 
 ### Connect with me:
