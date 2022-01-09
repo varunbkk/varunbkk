@@ -19,7 +19,7 @@
 
 ### My Projects :hammer: 
 
-[MyPhotos][myphotos] - A personal photo gallery, built w/ Django and JS - [Demo][myphotosrepo]
+[MyPhotos][myphotos] - A photo gallery, built w/ Django and JS - [Demo][myphotosrepo]
 <br />
 [MyShop][myshop]- An e-commerce store, also built w/ Django and JS - [Demo][myshoprepo]
 <br />
