@@ -18,7 +18,8 @@
 <br />
 
 ### My Projects :hammer: 
-
+[MyChat][mychat] - A video-chat application built with the Agora SDK - [Link][mychatrepo]
+<br />
 [MyPhotos][myphotos] - A photo gallery, built w/ Django and JS - [Demo][myphotosrepo]
 <br />
 [MyShop][myshop]- An e-commerce store, also built w/ Django and JS - [Demo][myshoprepo]
@@ -39,6 +40,8 @@
 
 [linkedin]: https://www.linkedin.com/in/varun-prakash-70a3694/
 
+[mychat]: https://varunbkk-mychat.herokuapp.com/
+[mychatrepo]: https://github.com/varunbkk/myportfolio_mychat
 [bookmyslot]: http://varunbkk-bookmyslot.herokuapp.com/
 [myshop]: http://varunbkk-myshop.herokuapp.com/
 [myphotos]: http://varunbkk-myphotos.herokuapp.com/
