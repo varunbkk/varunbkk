@@ -18,7 +18,7 @@
 <br />
 
 ### My Projects :hammer: 
-[MyChat][mychat] - A video-chat application built with the Agora SDK - [Link][mychatrepo]
+[MyChat][mychat] - A video-chat application built with Django and JS, utilising the Agora SDK - [Link][mychatrepo]
 <br />
 [MyPhotos][myphotos] - A photo gallery, built w/ Django and JS - [Demo][myphotosrepo]
 <br />
